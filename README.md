@@ -1,6 +1,6 @@
 # Hi, I'm Erin 👋
 
-High school developer building full-stack apps and AI-powered tools.
+High school developer learning to build full-stack apps and AI-powered tools.
 Interested in the intersection of engineering and biology.
 
 ---
