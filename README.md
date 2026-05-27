@@ -83,7 +83,6 @@ PostgreSQL · PL/pgSQL · Vercel
 
 ## 📚 Currently Learning
 - Flask and backend web frameworks
-- Deploying Python apps (Render, Railway)
 - IoT integration (ESP32 + Firebase Realtime Database)
 
 ---
