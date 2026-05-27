@@ -41,6 +41,7 @@ install for iPhone.
 
 ### Claude Document Analysis Tool
 *AI-powered research assistant for large financial documents*
+
 *2-person student team*
 
 Financial analysts spend hours manually reading dense S-1 filings and
