@@ -24,6 +24,8 @@ Interested in the intersection of engineering and biology.
 ### AquaGuardian — Household Water Conservation App
 **[Live App](https://aquaguardian-jet.vercel.app)**
 
+[Figma Mockup](https://www.figma.com/make/kvGCCYO0eP6chZ3kGuN45s/Water-Consumption-Tracker-App?t=KOEDXRd0Zx7DMu3C-1)
+
 A Progressive Web App that turns household water conservation into a
 daily habit through a living companion whose health responds to real
 usage.
@@ -60,6 +62,10 @@ OAuth2 integration layer, and a web scraping pipeline with CSV export.
 ---
 
 ### Los Khangeles (Simulation City) — Financial Platform
+**[Financial Platform](https://los-khangeles.vercel.app/)**
+
+**[City Council Dashboard](https://los-khangeles.vercel.app/court)**
+
 Full-stack web app powering the economy of a school-wide city
 simulation involving an entire high school. Serves as the central bank
 and ledger — every sale, wage, VC investment, and government loan flows
