@@ -65,13 +65,15 @@ OAuth2 integration layer, and a web scraping pipeline with CSV export.
 
 **[City Council Dashboard](https://los-khangeles.vercel.app/court)**
 
+*Linked is an early version of the platform, which was built solo in under 4 hours.*
+
 Full-stack web app powering the economy of a school-wide city
 simulation involving an entire high school. Serves as the central bank
 and ledger — every sale, wage, VC investment, and government loan flows
 through it.
 
 Supports three account tiers (individual, corporate, government) with
-distinct permissions, seven transaction types, automatic balance updates
+distinct permissions, seven transaction types, atomic balance updates
 via PostgreSQL triggers, a government lending system with per-borrower
 loan histories, and a read-only City Council oversight dashboard.
 
@@ -81,7 +83,6 @@ PostgreSQL · PL/pgSQL · Vercel
 ---
 
 ## 📚 Currently Learning
-- Flask and backend web frameworks
 - IoT integration (ESP32 + Firebase Realtime Database)
 
 ---
