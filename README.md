@@ -53,8 +53,7 @@ file saved to Dropbox.
 
 My independent contributions included async concurrent batch processing
 (`asyncio.gather()`), token-accurate pre-flight batching via
-Anthropic's `count_tokens` API (replacing a flat page heuristic,
-confirmed on Klarna F-1b), a three-phase run cost tracker, a Dropbox
+Anthropic's `count_tokens` API (replacing a flat page heuristic), a three-phase run cost tracker, a Dropbox
 OAuth2 integration layer, and a web scraping pipeline with CSV export.
 
 **Tech:** Python · Anthropic SDK · asyncio · pypdf · Dropbox API
